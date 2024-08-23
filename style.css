@@ -1,0 +1,30 @@
+.box {
+    border: 1px solid lightgray; 
+    padding: 20px; 
+    margin: 10px auto; 
+    border-radius: 10px; 
+    max-width: 800px; 
+    background-color: #f9f9f9; 
+}
+
+.pro1, .pro2 {
+    width: 80px;
+    margin: 20px 40px;
+    border-radius: 50%;
+}
+
+.para {
+    width: 355px;
+    margin-bottom: 15px;
+}
+
+.login {
+    color: rgb(42, 128, 214);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 103%; 
+    padding: 20px 10px;
+    margin: 20px 0; 
+    text-align: left;
+    border: 1px solid lightgray;
+    background-color: white;
+}
